@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+
+.user-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+}
+
+.user-head {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 36px;
+  color: black;
+  margin: 12px;
+}
+
+.user-para {
+  font-family: 'Roboto';
+
+  font-size: 25px;
+  color: #616e7c;
+  margin: 12px;
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+}

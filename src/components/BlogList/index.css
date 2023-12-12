@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.blog-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 12px;
+}
